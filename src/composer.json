@@ -1,0 +1,18 @@
+{
+    "name": "ashok-netsol/firebase-auth-sdk",
+    "type": "library",
+    "description": "Firebase Authentication SDK for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashok kumar",
+            "email": "ashok.kumar.1@netsolutions.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FirebaseAuth\\": "src/FirebaseAuth/"
+        }
+    }
+}
